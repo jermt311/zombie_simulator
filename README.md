@@ -38,3 +38,4 @@ The Simulation will consist of calculations that occur inside the loop over a pe
 - A scatter plot will be used where a dot shows the position of the zombie or human on the xy plane.
 - Healthy people will be plotted in blue
 - Zombies will be plotted in green.
+![alt text](Figure.jpg)
